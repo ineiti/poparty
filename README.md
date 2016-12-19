@@ -10,3 +10,4 @@ repo holds templates for using the framework at different levels:
 For further references, go to https://github.com/dedis/onet/wiki or contact us at
 
 https://groups.google.com/forum/#!forum/cothority
+hi
